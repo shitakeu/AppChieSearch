@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <color name="link">#0033FF</color> 
+    <color name="toolbar">#000000</color>
+    <color name="txt_toolbar">#FFFFFF</color>
+    <color name="top_line">#F5F5F5</color>
+    <color name="btn_click">#ff6600</color>
+</resources> 
